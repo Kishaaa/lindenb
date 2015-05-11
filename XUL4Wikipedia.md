@@ -1,0 +1,3 @@
+via: http://plindenbaum.blogspot.com/2008/03/xul4wikipedia.html
+
+I  created a simple tool to createa firefox extension. This add-on will append some custom items in the contextual popup menu when editing an article in wikipedia. Each of those items is used to insert a custom text in the textarea of the edited article, for example you won't have to find, copy and paste your favorite Template:Infobox Person, this template will now be always available in your menu. The source code is available here and is broadly inspired from one of my previous post.
